@@ -1,4 +1,4 @@
-# FertilityAI: Predicting Pregnancy Success  
+# Predicting IVF Success  
 - This project was developed for the **LG AI Research** Institute's fertility prediction hackathon, utilizing state-of-the-art gradient boosting models combined with blending techniques.
 - Referneces: [*An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models*](https://arxiv.org/pdf/2412.19696)
 
